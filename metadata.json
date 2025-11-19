@@ -1,0 +1,7 @@
+{
+  "name": "Case Prep AI Tutor",
+  "description": "An AI-powered case interview preparation tool that simulates real case interviews. Users can choose from a variety of cases and receive guidance and feedback from an AI tutor powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
